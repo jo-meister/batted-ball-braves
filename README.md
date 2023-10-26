@@ -1,9 +1,12 @@
-# Batted Ball Braves
+# Batted Balls Braves
 
 View production version deployment at [https://batted-ball-braves.vercel.app/](https://batted-ball-braves.vercel.app/)
 
-## Run local development server
+## How to run
 
+1. Clone repository
+
+2. Run local development server
 ```bash
 npm install
 npm run dev
@@ -18,7 +21,7 @@ bun install
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Features
 
