@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Batted Balls Braves",
+  title: "Batted Ball Braves",
   description: "Player batted ball metrics",
 };
 
